@@ -1,0 +1,7 @@
+{
+    "prefix": "KeenDev.Particle.",
+    "client": {
+        // Configurations can be found here https://www.npmjs.com/package/etcd3
+        "hosts": ""
+    }
+}
