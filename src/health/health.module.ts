@@ -1,8 +1,6 @@
 import { Module } from '@nestjs/common';
-import { HealthService } from './health/health.service';
-import { HealthService } from './health.service';
 
 @Module({
-  providers: [HealthService]
+  providers: []
 })
-export class HealthModule {}
+export class HealthModule { }
